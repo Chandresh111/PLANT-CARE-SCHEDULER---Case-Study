@@ -318,3 +318,18 @@ The application supports dynamic plant data, searching, adding, viewing, and edi
 
 
 
+
+
+## Screenshots
+
+### Home Screen
+![Home Screen](Output/Home_Screen.png)
+
+### Add Plant Screen
+![Add Plant Screen](Output/Add_Plant.png)
+
+### Plant Details Screen
+![Plant Details](Output/Plant_Details.png)
+
+### My Plants Screen
+![My Plants Screen](Output/My_Plant.png)
